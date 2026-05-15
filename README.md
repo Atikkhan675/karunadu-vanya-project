@@ -8,7 +8,7 @@ about wildlife behavior, safety precautions, and emergency actions.
 Karunadu Vanya is designed to educate users and promote forest safety awareness
 using a modern Android application.
 
-## 🎯 Objectives
+## 🎯Objectives
 - Educate users about wildlife and forest environments
 - Improve safety awareness
 - Provide emergency guidance and safety tips
