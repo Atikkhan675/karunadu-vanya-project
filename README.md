@@ -51,18 +51,6 @@ app/
 ### Dashboard
 ![Dashboard](screenshots/Dashboard.jpeg)
 
-### Forest Sound Awareness
-![Forest Sound](screenshots/forest-sound.jpeg)
-
-### Movement Alert
-![Movement Alert](screenshots/movement alert.jpeg)
-
-### Wildlife Wiki
-![Wildlife Wiki](screenshots/wildlife wiki.jpeg)
-
-### Nature Gallery
-![Nature Gallery](screenshots/nature gallery.jpeg)
-
 ### Our Mission
 ![Our Mission](screenshots/result.jpeg)
 
