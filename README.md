@@ -52,7 +52,7 @@ app/
 ![Dashboard](screenshots/Dashboard.jpeg)
 
 ### Forest Sound Awareness
-![Forest Sound](screenshots/forest sound.jpeg)
+![Forest Sound](screenshots/forest-sound.jpeg)
 
 ### Movement Alert
 ![Movement Alert](screenshots/movement alert.jpeg)
